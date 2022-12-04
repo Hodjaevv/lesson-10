@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.box{
+    padding-top: 40px;
+}
+
+
+.box-1{
+    height: 200px;
+    padding-top: 140px;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.859),#f00);
+}
+.box-2{
+    height: 200px;
+    background-image: linear-gradient(to top, rgba(0, 0, 0, 0.848), #f00);
+}
+h1{
+    text-align: center;
+    font-size: 70px;
+}

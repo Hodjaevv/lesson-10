@@ -1,0 +1,44 @@
+.box{
+    width: 500px;
+    height: 400px;
+    margin: 50px auto;
+    border: 1px solid;
+}
+h1{
+    color: blue;
+    margin-left: 20px;
+}
+form{
+    padding-left: 10px;
+}
+input{
+    margin: 10px;
+    width: 208px;
+    height: 30px;
+    border-radius: 5px;
+    background: linear-gradient(rgb(203, 203, 242), #fff);
+}
+input::placeholder{
+    color: blue;
+}
+.int{
+    width: 450px;
+}
+.int-2{
+    width: 450px;
+    height: 60px;
+}
+button{
+    padding: 15px 50px;
+    border: none;
+    background-color: blue;
+    border-radius: 20px;
+}
+a{
+    color: #fff;
+    text-decoration: none;
+}
+.btn{
+    width: 140px;
+    margin: 0 auto;
+}
